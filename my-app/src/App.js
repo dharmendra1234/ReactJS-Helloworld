@@ -19,7 +19,7 @@ class Content extends React.Component {
             <h2>
 
 
-              React allows to create the DOM objects
+              React allows to create the Virtual DOM objects
             </h2>
 
          </div>
